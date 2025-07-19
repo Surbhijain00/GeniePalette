@@ -1,0 +1,22 @@
+
+@import "tailwindcss";
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.font-almarai {
+    font-family: var(--font-almarai);
+}
+
+.font-klee {
+    font-family: var(--font-klee);
+}
+
+.font-anton {
+    font-family: var(--font-anton);
+}
+
+.font-roboto {
+    font-family: var(--font-roboto);
+}
