@@ -104,7 +104,6 @@
 # User View
 
 <br>
-<br>
 
 
 
@@ -123,6 +122,8 @@
 ![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS4.png)
    <br>
 
+<br>
+<br>
 
 ## 2. Choose Palette Page
 ![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS6.png)
@@ -151,6 +152,8 @@
 
 ![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS15.png)
    <br>
+<br>
+<br>
 
 ## 4. Explore Ai templates
 ![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS16.png)
@@ -164,6 +167,8 @@
 
 ![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS24.png)
    <br>
+<br>
+<br>
 
 ## 5. Explore templates
 ![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS21.png)
@@ -171,6 +176,9 @@
 
 ![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS22.png)
    <br>
+
+<br>
+<br>
 
 ## 6. My Dashboard
 ![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS25.png)
