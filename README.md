@@ -3,6 +3,8 @@
 
 **GeniePalette** is an AI-powered color palette generation and visualization tool, built for developers and designers. It enables users to effortlessly create beautiful and cohesive color themes for UI/UX design using the power of **Gemini AI** or generate colors randomly. Whether you're building a website, app, or brand, GenPalette helps you generate, visualize, save, and manage stunning palettes and individual colors in real-time—making it an essential tool in any modern design or development workflow.
 
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/HomePage1.png) 
+
 ## 🚀 Features
 
 - 🤖 **AI-Generated Palettes**
@@ -95,6 +97,94 @@
 4. **Run the development server**
    ```bash
    npm run dev
+
+<br>
+<br>
+
+# User View
+
+<br>
+<br>
+
+
+
+## 1. Home Page
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/HomePage1.png)
+
+   <br>
+
+
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/Image2.png)
+   <br>
+
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/Image3.png)
+   <br>
+
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS4.png)
+   <br>
+
+
+## 2. Choose Palette Page
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS6.png)
+   <br>
+
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS8.png)
+   <br>
+
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS9.png)
+   <br>
+
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS11.png)
+   <br>
+
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS12.png)
+   <br>
+
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS13.png)
+   <br>
+
+   <br>
+   
+## 3. Visualize 
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS14.png)
+   <br>
+
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS15.png)
+   <br>
+
+## 4. Explore Ai templates
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS16.png)
+   <br>
+
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS19.png)
+   <br>
+
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS20.png)
+   <br>
+
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS24.png)
+   <br>
+
+## 5. Explore templates
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS21.png)
+   <br>
+
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS22.png)
+   <br>
+
+## 6. My Dashboard
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS25.png)
+   <br> 
+
+![image](https://github.com/Surbhijain00/GeniePalette/blob/main/public/SS26.png)
+   <br>
+   
+
+
+
+
+   
+   
 
 ## Contact
 
